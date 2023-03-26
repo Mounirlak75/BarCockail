@@ -1,2 +1,3 @@
-# BarCockail
-Projet HTML CSS sur un Bar Cocktail
+# Version 1 du PIZZBURG 
+
+Premiere version du PizzBurg
